@@ -5,6 +5,6 @@
 ## client
 是客户端
 
-# 公众号(花花与Java)
+# 公众号(花花和Java)
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9014c30948ee476eb38e1b0090235d1d~tplv-k3u1fbpfcp-watermark.image)     
 **扫码关注，获取最新信息**
